@@ -12,8 +12,7 @@ docker-compile run compile
 
 ## Usage
 
-For now, you can only request the list of conversations and it prints it as
-a raw JSON on stdout
+For now, you can only export all the conversations and prints them on stdout
 
 ```
 ./mruby/build/host/bin/intercom-export -t <API KEY>:<API SECRET> -r conversations
