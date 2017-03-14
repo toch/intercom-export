@@ -7,7 +7,7 @@ Export data from Intercom.
 See [mruby-cli](https://github.com/hone/mruby-cli) for more details.
 
 ```
-docker-compile run compile
+docker-compose run compile
 ```
 
 ## Usage
